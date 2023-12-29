@@ -1,5 +1,10 @@
 # Bouncing-Windows
-this short program will move your windows randomly.
+
+This short program will move your windows randomly.
+
+# TO RUN
+
+use command: pip install -r requirements.txt
 
 # IMPORTANT
 
