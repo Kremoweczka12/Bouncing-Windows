@@ -2,10 +2,11 @@
 
 This short program will move your windows randomly.
 
-# TO RUN
+# To run
 
 use command: pip install -r requirements.txt
+then: python main.py
 
-# IMPORTANT
+# WARNING
 
 TO STOP BOUNCING JUST PRESS ESCAPE
